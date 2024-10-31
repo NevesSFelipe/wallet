@@ -1,0 +1,7 @@
+.btnAcoes {
+    cursor: pointer;
+}
+
+.iconeInformativo:hover {
+    cursor: help;
+}
